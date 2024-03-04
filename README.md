@@ -24,7 +24,7 @@
 
 ## contacto
 
-  (https://mail.google.com/mail/u/0/?pli=1#inbox?compose=GTvVlcSBmXDWcJgpmTxXTPnsJlmbdGDGqLbhdCpXHtNFwMThvnglTCqtVPKkMCCQCdpqhgwljsTTg)
+  (camiloandreslosada901@gmail.com)
 
       
 

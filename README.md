@@ -2,6 +2,7 @@
   ## Camilo Andres Losada
 
   ### desarollador junior
+  
     soy una persona que cumple con las labores 
     y requerimientos que me exigen,Capaz de 
     solucionar problemas rapidamente.

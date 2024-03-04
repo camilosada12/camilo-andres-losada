@@ -1,6 +1,6 @@
  
 
-  ## desarollador juniur 
+  ## desarollador junior
 
   ## Camilo Andres losada 
   

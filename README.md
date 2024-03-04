@@ -22,6 +22,11 @@
   + **Desarrollo de aplicaciones web con PHP**
   + **Construccion de base de datos con MYSQL**
 
+ ## habilidades
+  
+  + **Creacion de paginas web**
+  + **Base de datos**
+
 ## contacto
 
   + **Correo Electronico**

@@ -24,8 +24,11 @@
 
 ## contacto
 
-   📧 Correo Electronico
+  Correo Electronico
   (<camiloandreslosada901@gmail.com>)
+
+  telefono
+  (3112568947)
 
   ¡gracias por visitar mi perfin!
       

@@ -16,8 +16,10 @@
       cumplir las nececidades del usuario 
        
   # Educacion 
-
-      **This is bold text**
+  + Bachiller
+  + Tecnico en programacion de SOFTWARE
+  + Desarrollo de aplicaciones web con PHP
+   + Construccion de base de datos con MYSQL
 
       
 

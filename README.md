@@ -1,8 +1,7 @@
- 
+
+  ### Camilo Andres Losada
 
   ## desarollador junior
-
-  ## Camilo Andres losada 
   
       soy una persona que cumple con las labores 
       y requerimientos que me exigen,Capaz de 

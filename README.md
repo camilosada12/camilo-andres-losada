@@ -24,8 +24,10 @@
 
 ## contacto
 
+   📧 Correo Electronico
   (<camiloandreslosada901@gmail.com>)
 
+  ¡gracias por visitar mi perfin!
       
 
 

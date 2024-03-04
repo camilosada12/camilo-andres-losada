@@ -17,20 +17,20 @@
        
   ## Educacion 
   
-  + Bachiller
-  + Tecnico en programacion de SOFTWARE
-  + Desarrollo de aplicaciones web con PHP
-  + Construccion de base de datos con MYSQL
+  + **Bachiller**
+  + **Tecnico en programacion de SOFTWARE**
+  + **Desarrollo de aplicaciones web con PHP**
+  + **Construccion de base de datos con MYSQL**
 
 ## contacto
 
-  Correo Electronico
+  + **Correo Electronico**
   (<camiloandreslosada901@gmail.com>)
 
-  telefono
+  + **telefono**
   (3112568947)
 
-  ¡gracias por visitar mi perfin!
+  **¡gracias por visitar mi perfil!**
       
 
 

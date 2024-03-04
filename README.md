@@ -15,7 +15,7 @@
       sobre los nuevos lenguajes para asi mismo
       cumplir las nececidades del usuario 
        
-  # Educacion 
+  ## Educacion 
   
   + Bachiller
   + Tecnico en programacion de SOFTWARE
